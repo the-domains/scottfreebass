@@ -1,0 +1,28 @@
+name: scottfreebass
+favicon: null
+layout_spectrum: 0.3154232206288725
+typography_spectrum: 0.2772292729932815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6035427888855338
+  lightness: 0.6183235628996044
+  saturation: 0.6805180129595101
+  rhythmicContrast: 0.03126546926796436
+purpose: []
